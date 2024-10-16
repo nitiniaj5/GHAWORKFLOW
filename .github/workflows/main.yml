@@ -1,4 +1,4 @@
-name: Copy To Branches
+name: Test Workflow
 on:
   workflow_dispatch:
 jobs:
